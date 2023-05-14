@@ -24,3 +24,10 @@ This would create Player.class Board.class TicTacToe.class file in the current d
 
 ## Game-Details
 It asks for players names first. Then game continues to ask both the players their moves after every alternate turn. Whenever any player wins the game or if it is a tie, then a display message comes accordingly. It then asks for the new game
+
+
+## Further Improvements to be made
+
+- *Adding a GUI* : GUI can provide a more intuitive and user-friendly interface for players.
+- *Adding multiplayer functionality* :  Players can play against each other over a network.
+- *Improving Computer's decision ability* : Adding Computer as opponent and then implementing **minmax algorithm** or **adding depth to search** to make game more challenging.
